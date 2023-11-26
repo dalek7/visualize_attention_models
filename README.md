@@ -1,6 +1,6 @@
 # visualize_attention_models
 
-과제 보고서에 넣을 그림. 네트워크 구조도
+Multi-Head Attention 의 Internal strucuture 
 
 ### Multihead Self-attention
 <img src='images/mhsa_internal.png' width=800px />
